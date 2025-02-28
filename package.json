@@ -2,9 +2,7 @@
   "name": "@lz6666-lz/nextcloud_file_manager",
   "version": "1.0.0",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
   "keywords": [],
   "author": "Lukasz",
   "license": "ISC",
