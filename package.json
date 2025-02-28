@@ -5,9 +5,9 @@
   "scripts": {},
   "keywords": [],
   "author": "Lukasz",
-  "license": "ISC",
+  "license": "MIT",
   "description": "ble"
   "dependencies": {
-    "@saltcorn/data": "^1.0.0"
+    "@saltcorn/data": "1.0.0"
   }
 }
